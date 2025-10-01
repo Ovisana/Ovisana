@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ovisana
+- 👋 Hi, I’m @Ovisana im studying at KSHRD Center
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning code
 - 💞️ I’m looking to collaborate on coding group
